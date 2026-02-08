@@ -23,12 +23,12 @@
 ### 📈 Visualizations & Data
 
 #### 1. User Onboarding Funnel (Amplitude)
-*Mapped onboarding for 34.6k Android and 29.3k iOS users.*
+*Mapped onboarding for 34.6k Android and 29.3k iOS users with a 58%+ final conversion rate.*
 ![Funnel Visualization](./Users_Onboarding_and_Retention_Analysis%20(2).png)
 
-#### 2. Retention Cohort (Amplitude)
-*Visualized retention patterns per group.*
-![Retention Heatmap](./Cohort%20(1).png)
+#### 2. User Growth & Engagement Trends (Amplitude)
+*Analyzed daily unique user dynamics, showing a 3.08% upward trend in active engagement.*
+![User Trends](./Cohort%20(1).png)
 
 ---
 
