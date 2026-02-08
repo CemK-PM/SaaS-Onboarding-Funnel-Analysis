@@ -1,17 +1,26 @@
-# SaaS Onboarding Funnel & Retention Analysis
+📊 SaaS Onboarding Funnel & Retention Analysis
+Goal: Analyzing user journey friction and long-term retention patterns to optimize product onboarding.
 
-This project analyzes multi-step onboarding funnels, engagement patterns, and user retention using SQL, BigQuery, Amplitude, GA4, and Tableau.
+🚀 Key Insights
+Funnel Efficiency: Achieved a 58%+ completion rate for the core media-play action.
 
-## 📊 Funnel Analysis (Amplitude)
+Platform Variance: iOS users demonstrate significantly higher engagement, with sessions averaging 46 minutes longer than Android users.
 
-Mapped onboarding journeys of 34.6k Android and 29.3k iOS users.  
-58%+ completed the funnel by playing media.  
-iOS sessions averaged 46 minutes longer than Android.
+Retention: Monitored cohorts of 1.2k–1.6k users to identify critical drop-off points.
+
+🛠 Tech Stack
+Analysis: SQL (BigQuery), Amplitude, GA4
+
+Visualization: Amplitude
+
+Metrics: Conversion Rate, Retention Rate, Session Duration
 
 ![Funnel Visualization](./Users_Onboarding_and_Retention_Analysis%20(2).png)
 
-## 📈 Retention Cohort (Tableau)
+User Onboarding Funnel (Amplitude)
+Mapped onboarding for 34.6k Android and 29.3k iOS users.
 
+Retention Cohort (Amplitude)
 Visualized retention cohorts with 1.2k–1.6k users per group.
 
 ![Retention Heatmap](./Cohort%20(1).png)
